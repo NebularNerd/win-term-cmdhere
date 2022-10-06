@@ -12,5 +12,5 @@ https://user-images.githubusercontent.com/8470449/194303777-8bac9086-b39d-45d5-8
 Just drop the cmdhere.ps1 file into a convenient location that is in your path, type `cmdhere` in a Powershell tab to pop to a command prompt. You can use this for most Windows Terminal profiles, for example if you have Admin profiles you wish to use just make a new copy of this file and change the profile name in the quotes. 
 
 ## Limitations
-- If you are non English speaker, you'll likely need to change the `"Command Prompt"` to what is used in your language.
+- If you are non English speaker, you'll likely need to change `"Command Prompt"` to what is used in your language.
 - It will not carry any command history across shells, this is a limitation of Windows and the hodge podge mix of shells we have.
